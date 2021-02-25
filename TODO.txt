@@ -1,0 +1,2 @@
+-add heatmap support for association data
+-add run.r in main dir that combines parse_all.py and interpret&present.r

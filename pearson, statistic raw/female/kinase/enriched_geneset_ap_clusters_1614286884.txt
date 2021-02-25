@@ -1,0 +1,18 @@
+Kinase_HCK	Kinase_LYN	Kinase_SYK	Kinase_FGR
+Kinase_LCK	Kinase_FYN	Kinase_JAK3
+Kinase_RPS6KA4	Kinase_AURKB	Kinase_DYRK1B
+Kinase_BTK	Kinase_ITK	Kinase_TEC	Kinase_PDGFRB
+Kinase_RPS6KA6	Kinase_BUB1
+Kinase_CDK1	Kinase_CDK2	Kinase_PLK1	Kinase_CHEK1
+Kinase_CAMKK1
+Kinase_PRKG1
+Kinase_NEK2	Kinase_ATR
+Kinase_NTRK2
+Kinase_WEE1
+Kinase_MAPKAPK2	Kinase_RPS6KB2	Kinase_BRSK1	Kinase_CHEK2	Kinase_CSNK2A2
+Kinase_PTK2
+Kinase_ARAF	Kinase_DAPK1	Kinase_PAK1	Kinase_MAP2K6
+Kinase_CSNK1G2	Kinase_PRKACB	Kinase_CSNK1D
+Kinase_PRKD1	Kinase_PRKD2	Kinase_PRKCI
+Kinase_GRK5	Kinase_DYRK1A	Kinase_ADRBK2
+Kinase_MAPK3	Kinase_SGK1	Kinase_TGFBR2	Kinase_MAPK7	Kinase_MAPK1

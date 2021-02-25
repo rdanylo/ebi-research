@@ -1,0 +1,11 @@
+# Coverage: 0.666666666666667
+Kinase_CDK1
+Kinase_CDK2
+Kinase_FYN
+Kinase_CHEK1
+Kinase_AURKB
+Kinase_LYN
+Kinase_LCK
+Kinase_PLK1
+Kinase_ATR
+Kinase_MAPK1
